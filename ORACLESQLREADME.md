@@ -295,6 +295,56 @@ NULL can not be compared using an equal sign.
 
 The ORDER BY clause is processed before the FROM clause in a SQL statement and it's used to sort the columns in an ascending or descending fashion.
 
+## Section 3: Single Row Functions (Exercises & Solutions in the Lectures) 1hr 39min
+
+### 16. Single Row Functions (SRF) & Using The Dual Table
+
+-
+
+## Section 4: Grouping Functions (Exercises & Solutions in the Lectures) 52 min
+
+### 23. Grouping Functions MIN, MAX, AVG, COUNT, etc.
+
+-
+
+## Section 5: Multi-Table Queries and Joins (Exercises & Solutions in the Lectures) 2h 6min
+
+### 26. SELECT within SELECT (Subqueries)
+
+-
+
+## Section 6: Analytical Functions using OVER and PARTITION with ORDER BY 1hr 7mins
+
+### 35. OVER Clause with PARTITION BY
+
+-
+
+## Section 7: Creating, Altering, and Updating Objects Using SQL (Exercises in Lectures) 3hr 58min
+
+### 40. Creating Your Own Tables & Design Considerations
+
+-
+
+## Section 8: ADDITIONAL TOPICS + REVIEW for EXAM 170-071 2hr 14min
+
+### 57. OFFSET and FETCH
+
+-
+
+## Section 9: Exam Question Walkthrough Videos + 2 Exams 1hr 18min
+
+### 65. QA 1- DML, DDL, AND Transaction Control
+
+-
+
+## Section 10: APPENDIX - Installing Oracle on Windows 23min
+
+### 68. Install Oracle Database 19c in Windows
+
+-
+
+### 69. Install Oracle SQL Developer in Windows
+
 <!-- Oracle and Structured Query Language (SQL)
 
 Identify the connection between an ERD and a Relational Database
